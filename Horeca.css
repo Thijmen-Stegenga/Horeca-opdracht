@@ -1,0 +1,32 @@
+body {
+	background-color: grey;
+}
+div {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	max-width: 350px;
+	min-height: 450px;
+	background-color: white
+}
+
+p {
+	padding-top: 20px;
+	margin-left: 20px;
+}
+h1{
+	margin-left: 685px;
+	margin-right: 685px;
+	margin-top: 50px;
+
+}
+
+#Tekst{
+	color: white;
+}
+
+#Fris, #Wijn, #Bier, #Bit8, #Bit16{
+	display: none;
+}
+
+
